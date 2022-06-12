@@ -3,7 +3,7 @@
 <h1 align="center">gitmerg@gmail.com</h1>
 <h3 align="center">Accounts links etc..</h3>
 
-<img src="1000_F.JPG" alt="drawing" width="200"/>
+<img src="./1000_F.JPG" alt="drawing" width="200"/>
 
 
 
